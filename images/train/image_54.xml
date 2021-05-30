@@ -1,0 +1,38 @@
+<annotation>
+	<folder>BulkResizePhotos.com (2)</folder>
+	<filename>image_54.jpg</filename>
+	<path>C:\Users\Gusmanu\Downloads\BulkResizePhotos.com (2)\image_54.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>562</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>botol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>176</ymin>
+			<xmax>290</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastik</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>97</ymin>
+			<xmax>415</xmax>
+			<ymax>195</ymax>
+		</bndbox>
+	</object>
+</annotation>

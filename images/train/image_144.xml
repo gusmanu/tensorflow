@@ -1,0 +1,26 @@
+<annotation>
+	<folder>BulkResizePhotos.com (2)</folder>
+	<filename>image_144.jpg</filename>
+	<path>C:\Users\Gusmanu\Downloads\BulkResizePhotos.com (2)\image_144.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>562</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>botol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>123</ymin>
+			<xmax>387</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>
